@@ -1,1 +1,1 @@
-heyy"# mcq-generator" 
+"# mcq-generator"
