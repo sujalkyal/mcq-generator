@@ -1,4 +1,4 @@
-"# MCQ Generator
+# MCQ Generator
 
 An intelligent Multiple Choice Question (MCQ) generator powered by OpenAI's GPT models and LangChain. This application automatically creates customized quiz questions from uploaded PDF or text documents with adjustable complexity levels.
 
@@ -206,4 +206,4 @@ If you encounter any issues or have questions, please:
 - Question difficulty scoring
 - Export functionality (PDF, Excel)
 - Integration with learning management systems
-- Batch processing capabilities"
+- Batch processing capabilities
